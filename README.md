@@ -9,7 +9,7 @@ Demo file is the basic knowledge about React Native, the Project file is about R
 
 
 # Front-End
-React、Typescript、React Native、android studio
+React、Typescript、React Native、Android studio
 
 # Back-End
 Node.js、mock.js
