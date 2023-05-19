@@ -1,6 +1,6 @@
 # React-Native-RedBook
 This is a project about React Native study.
-After having studied VUE3 and uniapp framework, I desided
+After having studied VUE3 and uniapp framework for mini-program, I decided to learn how to make a app with Typescript.
 
 
 
