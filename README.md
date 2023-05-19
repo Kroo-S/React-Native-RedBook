@@ -5,7 +5,7 @@ This is a project about React Native study.
 After having studied VUE3 and uniapp framework for mini-program, 
 I decided to learn how to make a app with Typescript & React.
 
-Demo is basic knowledge, the project file is about RedBook. I will publish it next time.
+Demo file is the basic knowledge about React Native, the Project file is about RedBook App. I will publish it next time.
 
 
 # Front-End
