@@ -20,7 +20,7 @@ const InfoCard = (props) => {
 
             {/* 传递的参数levelView，可以直接用方括号传递过来 */}
             {levelView}
-
+ 
             {/* 子view传值 */}
             {props.children}
         </View>
