@@ -26,6 +26,7 @@ import FunctionView from './src/components/FunctionView';
 import FunctionViewJSX from './src/components/FunctionViewJSX';
 import TimerView from './src/components/TimerView';
 import ViewDemo from './src/components/ViewDemo';
+import TextDemo from './src/components/TextDemo';
 
 type SectionProps = PropsWithChildren<{
   title: string;
@@ -47,17 +48,22 @@ function App(): JSX.Element {
         backgroundColor={backgroundStyle.backgroundColor}
       />
       <View style={style.container}>
-        <ClassView name="wangwu" age={27} level="top" sex={true}/>
+        {/* <ClassView name="wangwu" age={27} level="top" sex={true}/>
         <FunctionView name="zhangsan" age={25} level="top" sex={true} />
-        <FunctionViewJSX name="JSX拆分渲染" age={25} level="top" sex={true} />
+        <FunctionViewJSX name="JSX拆分渲染" age={25} level="top" sex={true} /> 
+        <TimerView />
+        <ViewDemo /> */}
+        
+        <TextDemo />
       </View>
 
-      {/* <view>
-        <TimerView/>
-      </view>
-         */}
-      <ViewDemo />
+      
+        
 
+        
+      
+        
+      
       
 
     </SafeAreaView>

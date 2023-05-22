@@ -9,10 +9,10 @@ const InfoCard = (props) => {
                 {`姓名：${name}`}
             </Text>
 
-            {/* 3. 样式组合用方括号 */}
+            {/* 3. 样式组合用方括号
             <Text style={[styles.txt, style.txtBold]}>
                 {`年龄：${age}`}
-            </Text>
+            </Text> */}
 
             <Text style={styles.txt}>
                 {`性别：${sex}`}
