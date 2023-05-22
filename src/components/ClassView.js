@@ -13,7 +13,7 @@ class ClassView extends React.Component {
     componentDidMount() {
         setTimeout(() => {
             this.setState({
-                address: "江苏省杭州市",
+                address: "江苏省杭州市", 
             });
         }, 2000)
     }
