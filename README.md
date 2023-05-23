@@ -1,4 +1,4 @@
-# Status: pending...  After(Vue+Springboot)
+# Status: pending...  
 
 # React-Native-RedBook
 
