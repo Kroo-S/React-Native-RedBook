@@ -1,4 +1,5 @@
 # Status: pending...  
+The Vue+BackEnd courses are much more than React+. So, in order to learn FE better, I decided to learn react later.
 
 # React-Native-RedBook
 
