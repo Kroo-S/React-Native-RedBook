@@ -1,3 +1,5 @@
+# Status: pending...  After(Vue+Springboot)
+
 # React-Native-RedBook
 
 This is a project about React Native study.
