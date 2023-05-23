@@ -1,12 +1,13 @@
 # Status: pending...  
-The Vue+BackEnd courses are much more than React+. So, in order to learn FE better, I decided to learn react later.
+The Vue+BackEnd courses are much more than React+. </br>
+So, in order to learn FE better, I decided to learn react later.
 
 # React-Native-RedBook
 
 This is a project about React Native study.
 
-After having studied VUE3 and uniapp framework for mini-program, 
-I decided to learn how to make a app with Typescript & React.( We will learn react eventually )
+After having studied VUE3 and uniapp framework for mini-program, I decided to learn how to make a app with Typescript & React.</br>
+( We will learn react eventually )
 
 Demo file is the basic knowledge about React Native, the Project file is about RedBook App. I will publish it next time.
 
