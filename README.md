@@ -1,5 +1,5 @@
 # Status: pending...  
-The Vue+BackEnd courses are much more than React+. </br>
+The Vue + Springboot courses are much more than React + etc . </br>
 So, in order to learn FE better, I decided to learn react later.
 
 # React-Native-RedBook
