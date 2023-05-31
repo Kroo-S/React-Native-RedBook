@@ -1,8 +1,13 @@
+# Status:pending
+  Reason 1 : high cohesion, low coupling
+  Reason 2 : better the vue skill
+  Reason 3 : Flutter is better than RN
+
 # React-Native-RedBook
 This is a project about React Native study.
 
 After having studied VUE3 and uniapp framework for mini-program, I decided to learn how to make an app with Typescript & React.
-( We will learn react eventually )
+<!-- ( We will learn react eventually ) -->
 
 Demo file is the basic knowledge about React Native, the Project file is about RedBook App. I will publish it next time.
 
