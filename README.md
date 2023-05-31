@@ -1,5 +1,5 @@
 # Status : pending
-    Reason 1 : high cohesion, low coupling （in skill stack）
+    Reason 1 : high cohesion, low coupling （no-repeat in skill stack）
   
     Reason 2 : better the vue skill
   
