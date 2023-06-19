@@ -1,9 +1,9 @@
-<!-- # Status : pending
-    Reason 1 : high cohesion, low coupling （no-repeat in skill stack）
+# Status : pending
+    Reason 1 : no-repeat in skill stack
   
     Reason 2 : better the vue skill
   
-    Reason 3 : Flutter is better than RN -->
+    Reason 3 : Flutter is better than RN
 
 # React-Native-RedBook
 This is a project about React Native study.
