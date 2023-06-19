@@ -1,7 +1,7 @@
 # Status : pending
-    Reason 1 : no-repeat in skill stack, better the vue skill
+    Reason 1 : Better the vue skill
   
-    Reason 2 : Flutter is better than RN
+    Reason 2 : \
   
     Reason 3 : \
 
@@ -22,3 +22,11 @@ Node.js、Egg.js
 # Design Prototype
 
 ![小红书](https://github.com/Kroo-S/React-Native-RedBook/assets/10970297/9864482a-98c8-40e1-be5d-16c7c3faa500)
+
+
+# Funny Bug
+1. The server file should be installed in a independent file instead of mixed one. I don't know the reason.(2 days)
+<img width="481" alt="image" src="https://github.com/Kroo-S/React-Native-RedBook/assets/10970297/9e1c3799-d979-45a5-9d3c-f15f46127bd2">
+
+
+
