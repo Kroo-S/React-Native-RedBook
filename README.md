@@ -1,7 +1,7 @@
 # Status : pending
     Reason 1 : Better the vue skill
   
-    Reason 2 : \
+    Reason 2 : CSer will learn Java & 408 eventually
   
     Reason 3 : \
 
